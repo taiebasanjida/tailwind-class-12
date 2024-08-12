@@ -1,1 +1,1 @@
-# tailwind-class-12
+# tailwind
